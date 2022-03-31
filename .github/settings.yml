@@ -1,0 +1,5 @@
+repository:
+  name: "wiki-container"
+  description: "Container to render wiki pages"
+  homepage: "wiki.rwxd.eu"
+  topics: "container, mkdocs"
