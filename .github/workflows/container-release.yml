@@ -6,12 +6,7 @@ on:
     branches:
       - "main"
     tags:
-      - "v*"
-  release:
-    types:
-      - published
-      - released
-      - created
+      - "v*.*.*"
   pull_request:
     branches:
       - "main"
