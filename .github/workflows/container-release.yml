@@ -11,6 +11,7 @@ on:
     types:
       - published
       - released
+      - created
   pull_request:
     branches:
       - "main"
