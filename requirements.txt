@@ -1,5 +1,5 @@
 mkdocs==1.3.0
-mkdocs-material==8.3.1
+mkdocs-material==8.3.2
 pre-commit
 pygments
 plantuml-markdown
