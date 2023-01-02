@@ -1,9 +1,8 @@
-mkdocs==1.3.0
-mkdocs-material==8.3.8
-pre-commit
+mkdocs==1.4.2
+mkdocs-material==9.0.0
 pygments
-plantuml-markdown
-mkdocs-same-dir
-mkdocs-roamlinks-plugin
-mkdocs-exclude
-mkdocs-awesome-pages-plugin
+plantuml-markdown==3.8.0
+mkdocs-same-dir==0.1.2
+mkdocs-roamlinks-plugin==0.2.0
+mkdocs-exclude==1.0.2
+mkdocs-awesome-pages-plugin==2.8.0
