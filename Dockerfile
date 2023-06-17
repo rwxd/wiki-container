@@ -1,8 +1,9 @@
-FROM docker.io/ubuntu:focal
+FROM docker.io/ubuntu:jammy
 
 RUN : \
     && apt-get update -y \
     && apt-get install -y --no-install-recommends \
+	git \
     python3 \
     python3-venv \
     python3-pip \
