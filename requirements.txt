@@ -1,7 +1,7 @@
 mkdocs==1.5.3
 mkdocs-material==9.3.1
 pygments
-plantuml-markdown==3.8.0
+plantuml-markdown==3.9.2
 mkdocs-same-dir==0.1.2
 mkdocs-roamlinks-plugin==0.3.2
 mkdocs-exclude==1.0.2
