@@ -1,5 +1,5 @@
 mkdocs==1.5.3
-mkdocs-material==9.5.13
+mkdocs-material==9.5.33
 pygments
 plantuml-markdown==3.9.2
 mkdocs-same-dir==0.1.2
