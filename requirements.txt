@@ -1,10 +1,10 @@
-mkdocs==1.5.3
-mkdocs-material==9.5.33
+mkdocs==1.6.1
+mkdocs-material==9.5.37
 pygments
-plantuml-markdown==3.9.2
-mkdocs-same-dir==0.1.2
+plantuml-markdown==3.10.4
+mkdocs-same-dir==0.1.3
 mkdocs-roamlinks-plugin==0.3.2
 mkdocs-exclude==1.0.2
-mkdocs-awesome-pages-plugin==2.9.2
-mkdocs-rss-plugin==1.8.0
+mkdocs-awesome-pages-plugin==2.9.3
+mkdocs-rss-plugin==1.15.0
 material-plausible-plugin==0.2.0
