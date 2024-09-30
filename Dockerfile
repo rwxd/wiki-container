@@ -1,4 +1,4 @@
-FROM docker.io/ubuntu:jammy
+FROM docker.io/ubuntu:noble
 
 RUN : \
     && apt-get update -y \
